@@ -17,3 +17,5 @@
 •  code coverage with unit tests, integration tests, snapshot tests and acceptance tests
 •  supported platforms: iOS
 
+![MyFeed](https://github.com/mammaiap/FeedFeature/assets/4545252/adc80741-986b-422e-b63b-70e6fb01bd3c)
+![FeedComments](https://github.com/mammaiap/FeedFeature/assets/4545252/8456397f-bd32-4a8b-9099-e7d6d2ac4e6b)
